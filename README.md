@@ -12,7 +12,9 @@
 
 ## 🚀 Live Demo
 
-**Try it now:** [chemometricsolutions.streamlit.app](https://chemometricsolutions.streamlit.app)
+**Landing Page:** [https://farininichemometricsolutions.github.io/chemometricsolutions-demos/](https://farininichemometricsolutions.github.io/chemometricsolutions-demos/)
+
+**Streamlit App:** [chemometricsolutions.streamlit.app](https://chemometricsolutions.streamlit.app)
 
 ---
 
